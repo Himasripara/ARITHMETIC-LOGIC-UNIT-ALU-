@@ -43,3 +43,5 @@ The design was simulated using EDA Playground.
    ```bash
    iverilog -o alu_tb alu.v alu_tb.v
    vvp alu_tb
+## OUTPUT
+   ![Image](https://github.com/user-attachments/assets/29aa405f-4f30-4885-8770-e9f3619c9fd2)
